@@ -1,2 +1,0 @@
-# bojos
-BojosPerLaFisica
